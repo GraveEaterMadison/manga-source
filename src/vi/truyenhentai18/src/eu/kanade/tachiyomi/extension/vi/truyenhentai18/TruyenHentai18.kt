@@ -18,7 +18,7 @@ class TruyenHentai18 : ParsedHttpSource() {
 
     override val name = "Truyện Hentai 18+"
 
-    override val baseUrl = "https://truyenhentai18.pro"
+    override val baseUrl = "https://truyenhentai18.app"
 
     override val lang = "vi"
 
